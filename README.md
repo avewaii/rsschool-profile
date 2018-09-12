@@ -4,4 +4,5 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/eveshad/rsschool-profile.git
 git push -u origin master
-Эва Шадевская HTML CSS Basics: https://www.codecademy.com/users/eveshade/achievements
+eveshade 
+HTML CSS Basics: https://www.codecademy.com/users/eveshade/achievements
